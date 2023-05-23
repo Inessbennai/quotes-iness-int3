@@ -22,7 +22,7 @@ def main():
         elif choice == "add":
             add_quote(quotes, "quotes.txt")
         elif choice == "exit":
-            print("Good bye...")
+            print("Goodbye...")
             break
         else:
             print("Invalid input")
