@@ -4,9 +4,9 @@
 A python program that generates programming quotes and jokes.
 
 ## Contributors
-- `initiator`: Iness BENNAI Group INT3
+- `initiator`: Iness BENNAI INT3
 - `contributor-1`: Derya DEMIREL INT3
-- `contributor-2`: Sarah KLAAS Group INT3
+- `contributor-2`: Sarah KLAAS INT3
 - `contributor-3`: Ibrahim NAZARI INT3
 
 ## Fork urls
