@@ -11,5 +11,5 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 - `contributor-1`: [quotes-demirel-b](url-1)
-- `contributor-2`: [quotes-klaas-int 3]([url-2](https://github.com/SarahVKls/quotes-sarah-k))
+- `contributor-2`: [quotes-klaas-int 3]((https://github.com/SarahVKls/quotes-sarah-k))
 - `contributor-3`: [quotes-nazari-b](url-3)
