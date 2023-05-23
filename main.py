@@ -22,7 +22,7 @@ def main():
             break
         elif choice == "4":
             add_quote(quotes, filename)
-        elif choice == ... # handling display_count()
+        elif choice == "5":
             count = int(input("Enter the number of quotes to display: "))
             display_quotes(quotes, count)
 
