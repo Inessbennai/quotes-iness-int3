@@ -10,6 +10,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: Ibrahim NAZARI INT3
 
 ## Fork urls
-- `contributor-1`: [quotes-demirel-b](url-1)
+- `contributor-1`: [quotes-demirel-b]([url-1](https://github.com/faerrie/quotes-derya-d))
 - `contributor-2`: [quotes-klaas-b](url-2)
 - `contributor-3`: [quotes-nazari-b](url-3)
